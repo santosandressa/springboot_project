@@ -36,5 +36,4 @@ jobs:
           labels: |
             report
             automated pr
-          milestone: 1
           draft: false
