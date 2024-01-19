@@ -26,7 +26,7 @@ jobs:
           signoff: false
           branch: example-patches
           delete-branch: true
-          title: '[Example] Update report'
+          title: '[PR]'
           body: |
             Update report
             - Updated with *today's* date
